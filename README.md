@@ -1,6 +1,5 @@
 # SpeakEasy
 
-![SpeakEasy Cover Photo](./path_to_your_cover_photo.png) <!-- Replace with the path to your cover photo -->
 
 ## Overview
 
