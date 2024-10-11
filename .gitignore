@@ -1,0 +1,16 @@
+# Node.js modules
+node_modules/
+
+# Environment variables file
+.env
+
+# Uploads directory (if applicable)
+uploads/
+
+# Build directory (if applicable)
+dist/
+
+# Logs
+npm-debug.log
+yarn-debug.log
+yarn-error.log
